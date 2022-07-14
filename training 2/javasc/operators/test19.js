@@ -1,5 +1,5 @@
-let A=15
-let B=25
+let A=10
+let B=5
 let C=30
 if(A<=B && B<=C){
         console.log("Greatest number = B");
